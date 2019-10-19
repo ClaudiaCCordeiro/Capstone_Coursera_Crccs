@@ -1,0 +1,184 @@
+Nível;Indicador;2010;Unidade
+13;Amostra - Rendimento;;
+13.1;Domicílios particulares permanentes;470896;domicílios
+13.1.1;Classe de rendimento nominal mensal domiciliar;;
+13.1.1.1;Sem rendimento;20765;domicílios
+13.1.1.2;Até 1/2 salário mínimo;19255;domicílios
+13.1.1.3;Mais de 1/2 a 1 salário mínimo;53867;domicílios
+13.1.1.4;Mais de 1 a 2 salários mínimos;100147;domicílios
+13.1.1.5;Mais de 2 a 5 salários mínimos;136637;domicílios
+13.1.1.6;Mais de 5 a 10 salários mínimos;65011;domicílios
+13.1.1.7;Mais de 10 a 20 salários mínimos;41247;domicílios
+13.1.1.8;Mais de 20 salários mínimos;33968;domicílios
+13.2;Pessoas de 10 anos ou mais de idade;;
+13.2.1;Classe de rendimento nominal mensal;;
+13.2.1.1;Sem rendimento;442052;pessoas
+13.2.1.1.1;Condição de atividade;;
+13.2.1.1.1.1;Economicamente ativa;80302;pessoas
+13.2.1.1.1.2;Não economicamente ativa;361749;pessoas
+13.2.1.1.2;Sexo;;
+13.2.1.1.2.1;Masculino;181436;pessoas
+13.2.1.1.2.2;Feminino;260616;pessoas
+13.2.1.2;Até 1/4 de salário mínimo;66633;pessoas
+13.2.1.2.1;Condição de atividade;;
+13.2.1.2.1.1;Economicamente ativa;23179;pessoas
+13.2.1.2.1.2;Não economicamente ativa;43454;pessoas
+13.2.1.2.2;Sexo;;
+13.2.1.2.2.1;Masculino;15772;pessoas
+13.2.1.2.2.2;Feminino;50861;pessoas
+13.2.1.3;Mais de 1/4 a 1/2 salário mínimo;44170;pessoas
+13.2.1.3.1;Condição de atividade;;
+13.2.1.3.1.1;Economicamente ativa;31121;pessoas
+13.2.1.3.1.2;Não economicamente ativa;13049;pessoas
+13.2.1.3.2;Sexo;;
+13.2.1.3.2.1;Masculino;14716;pessoas
+13.2.1.3.2.2;Feminino;29455;pessoas
+13.2.1.4;Mais de 1/2 a 1 salário mínimo;279149;pessoas
+13.2.1.4.1;Condição de atividade;;
+13.2.1.4.1.1;Economicamente ativa;194589;pessoas
+13.2.1.4.1.2;Não economicamente ativa;84560;pessoas
+13.2.1.4.2;Sexo;;
+13.2.1.4.2.1;Masculino;124345;pessoas
+13.2.1.4.2.2;Feminino;154804;pessoas
+13.2.1.5;Mais de 1 a 2 salários mínimos;220664;pessoas
+13.2.1.5.1;Condição de atividade;;
+13.2.1.5.1.1;Economicamente ativa;192567;pessoas
+13.2.1.5.1.2;Não economicamente ativa;28096;pessoas
+13.2.1.5.2;Sexo;;
+13.2.1.5.2.1;Masculino;118018;pessoas
+13.2.1.5.2.2;Feminino;102645;pessoas
+13.2.1.6;Mais de 2 a 3 salários mínimos;74271;pessoas
+13.2.1.6.1;Condição de atividade;;
+13.2.1.6.1.1;Economicamente ativa;60191;pessoas
+13.2.1.6.1.2;Não economicamente ativa;14080;pessoas
+13.2.1.6.2;Sexo;;
+13.2.1.6.2.1;Masculino;39399;pessoas
+13.2.1.6.2.2;Feminino;34872;pessoas
+13.2.1.7;Mais de 3 a 5 salários mínimos;72372;pessoas
+13.2.1.7.1;Condição de atividade;;
+13.2.1.7.1.1;Economicamente ativa;57237;pessoas
+13.2.1.7.1.2;Não economicamente ativa;15135;pessoas
+13.2.1.7.2;Sexo;;
+13.2.1.7.2.1;Masculino;37256;pessoas
+13.2.1.7.2.2;Feminino;35116;pessoas
+13.2.1.8;Mais de 5 a 10 salários mínimos;74827;pessoas
+13.2.1.8.1;Condição de atividade;;
+13.2.1.8.1.1;Economicamente ativa;62789;pessoas
+13.2.1.8.1.2;Não economicamente ativa;12038;pessoas
+13.2.1.8.2;Sexo;;
+13.2.1.8.2.1;Masculino;38245;pessoas
+13.2.1.8.2.2;Feminino;36582;pessoas
+13.2.1.9;Mais de 10 a 15 salários mínimos;21265;pessoas
+13.2.1.9.1;Condição de atividade;;
+13.2.1.9.1.1;Economicamente ativa;18112;pessoas
+13.2.1.9.1.2;Não economicamente ativa;3154;pessoas
+13.2.1.9.2;Sexo;;
+13.2.1.9.2.1;Masculino;11609;pessoas
+13.2.1.9.2.2;Feminino;9656;pessoas
+13.2.1.10;Mais de 15 a 20 salários mínimos;16196;pessoas
+13.2.1.10.1;Condição de atividade;;
+13.2.1.10.1.1;Economicamente ativa;13743;pessoas
+13.2.1.10.1.2;Não economicamente ativa;2453;pessoas
+13.2.1.10.2;Sexo;;
+13.2.1.10.2.1;Masculino;10189;pessoas
+13.2.1.10.2.2;Feminino;6006;pessoas
+13.2.1.11;Mais de 20 a 30 salários mínimos;12724;pessoas
+13.2.1.11.1;Condição de atividade;;
+13.2.1.11.1.1;Economicamente ativa;10836;pessoas
+13.2.1.11.1.2;Não economicamente ativa;1888;pessoas
+13.2.1.11.2;Sexo;;
+13.2.1.11.2.1;Masculino;8087;pessoas
+13.2.1.11.2.2;Feminino;4638;pessoas
+13.2.1.12;Mais de 30 salários mínimos;11874;pessoas
+13.2.1.12.1;Condição de atividade;;
+13.2.1.12.1.1;Economicamente ativa;10561;pessoas
+13.2.1.12.1.2;Não economicamente ativa;1312;pessoas
+13.2.1.12.2;Sexo;;
+13.2.1.12.2.1;Masculino;8280;pessoas
+13.2.1.12.2.2;Feminino;3594;pessoas
+13.3;Valor do rendimento nominal mediano mensal;;
+13.3.1;Pessoas de 10 anos ou mais de idade com rendimento;;
+13.3.1.1;Condição de atividade;;
+13.3.1.1.1;Economicamente ativa;700.00;R$
+13.3.1.1.2;Não economicamente ativa;510.00;R$
+13.3.1.2;Sexo;;
+13.3.1.2.1;Masculino;750.00;R$
+13.3.1.2.2;Feminino;510.00;R$
+13.3.2;Per capita dos domicílios particulares permanentes;500.00;R$
+13.3.2.1;Situação domiciliar;;
+13.3.2.1.1;Urbana;500.00;R$
+13.3.2.1.2;Rural;;R$
+13.4;Valor do rendimento nominal médio mensal;;
+13.4.1;Pessoas de 10 anos ou mais de idade com rendimento;;
+13.4.1.1;Condição de atividade;;
+13.4.1.1.1;Economicamente ativa;2073.69;R$
+13.4.1.1.2;Não economicamente ativa;1359.76;R$
+13.4.1.2;Sexo;;
+13.4.1.2.1;Masculino;2294.76;R$
+13.4.1.2.2;Feminino;1538.35;R$
+13.4.2;Pessoas de 10 anos ou mais de idade com rendimento de trabalho, ocupada na semana de referência;;
+13.4.2.1;Cor ou raça;;
+13.4.2.1.1;Amarela;1627.79;R$
+13.4.2.1.2;Branca;2536.65;R$
+13.4.2.1.3;Indígena;1115.39;R$
+13.4.2.1.4;Parda;1213.42;R$
+13.4.2.1.5;Preta;951.61;R$
+13.4.2.1.6;Sem declaração;;R$
+13.4.2.2;Grupo de idade;;
+13.4.2.2.1;10 a 14 anos;292.86;R$
+13.4.2.2.1.1;10 a 13 anos;335.86;R$
+13.4.2.2.1.2;14 anos;229.81;R$
+13.4.2.2.2;15 a 19 anos;463.34;R$
+13.4.2.2.2.1;15 anos;312.25;R$
+13.4.2.2.2.2;16 ou 17 anos;328.94;R$
+13.4.2.2.2.3;18 ou 19 anos;529.95;R$
+13.4.2.2.3;20 a 24 anos;764.91;R$
+13.4.2.2.4;25 a 29 anos;1310.85;R$
+13.4.2.2.5;30 a 34 anos;1650.57;R$
+13.4.2.2.6;35 a 39 anos;1827.71;R$
+13.4.2.2.7;40 a 44 anos;1844.54;R$
+13.4.2.2.8;45 a 49 anos;2212.41;R$
+13.4.2.2.9;50 a 54 anos;2302.40;R$
+13.4.2.2.10;55 a 59 anos;2578.09;R$
+13.4.2.2.11;60 a 69 anos;2959.87;R$
+13.4.2.2.12;70 anos ou mais;2756.78;R$
+13.4.2.3;Nível de instrução;;
+13.4.2.3.1;Sem instrução e fundamental incompleto;623.66;R$
+13.4.2.3.2;Fundamental completo e médio incompleto;787.94;R$
+13.4.2.3.3;Médio completo e superior incompleto;1251.77;R$
+13.4.2.3.4;Superior completo;4531.44;R$
+13.4.2.3.5;Não determinado;772.85;R$
+13.4.2.4;Condição de contribuição para instituto de previdência oficial em qualquer trabalho;;
+13.4.2.4.1;Contribuinte;2151.28;R$
+13.4.2.4.2;Não contribuinte;946.25;R$
+13.4.3;Pessoas de 10 anos ou mais de idade com rendimento do trabalho principal, ocupada na semana de referência;1635.60;R$
+13.4.3.1;Posição na ocupação;;
+13.4.3.1.1;Conta própria;1459.97;R$
+13.4.3.1.1.1;Contribuinte para instituto de previdência oficial no trabalho principal;2989.27;R$
+13.4.3.1.1.2;Não contribuinte para instituto de previdência oficial no trabalho principal;1062.15;R$
+13.4.3.1.2;Empregadores;6960.96;R$
+13.4.3.1.2.1;Contribuinte para instituto de previdência oficial no trabalho principal;7966.93;R$
+13.4.3.1.2.2;Não contribuinte para instituto de previdência oficial no trabalho principal;4854.50;R$
+13.4.3.1.3;Empregados;1489.76;R$
+13.4.3.1.3.1;Categoria do emprego;;
+13.4.3.1.3.1.1;Com carteira de trabalho assinada;1448.03;R$
+13.4.3.1.3.1.2;Militares e funcionários públicos estatutários;3767.57;R$
+13.4.3.1.3.1.3;Sem carteira de trabalho assinada;682.58;R$
+13.4.3.1.3.1.3.1;Contribuinte para instituto de previdência oficial no trabalho principal;1275.67;R$
+13.4.3.1.3.1.3.2;Não contribuinte para instituto de previdência oficial no trabalho principal;598.64;R$
+13.4.3.1.3.2;Subgrupo;;
+13.4.3.1.3.2.1;Trabalhadores domésticos;435.47;R$
+13.4.3.1.3.2.1.1;Com carteira de trabalho assinada;539.17;R$
+13.4.3.1.3.2.1.2;Sem carteira de trabalho assinada;361.44;R$
+13.4.3.1.3.2.1.2.1;Contribuinte para instituto de previdência oficial no trabalho principal;444.98;R$
+13.4.3.1.3.2.1.2.2;Não contribuinte para instituto de previdência oficial no trabalho principal;356.43;R$
+13.4.3.1.3.2.2;Demais empregados;1616.60;R$
+13.4.3.1.3.2.2.1;Com carteira de trabalho assinada;1513.43;R$
+13.4.3.1.3.2.2.2;Militares e funcionários públicos estatutários;3767.57;R$
+13.4.3.1.3.2.2.3;Sem carteira de trabalho assinada;797.71;R$
+13.4.3.1.3.2.2.3.1;Contribuinte para instituto de previdência oficial no trabalho principal;1389.29;R$
+13.4.3.1.3.2.2.3.2;Não contribuinte para instituto de previdência oficial no trabalho principal;694.81;R$
+
+
+
+Fonte: IBGE, Censo Demográfico 2010
